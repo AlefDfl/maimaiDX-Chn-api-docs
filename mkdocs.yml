@@ -1,0 +1,5 @@
+site_name: maimaiDX Chn titleserver docs
+site_url: https://AlefDfl.github.io/maimaiDX-Chn-api-docs/
+repo_url: https://github.com/AlefDfl/maimaiDX-Chn-api-docs
+theme:
+  name: material
